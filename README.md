@@ -11,6 +11,7 @@ A personal repository to track and document my **Data Structures & Algorithms (D
 ├── 📁 practice # Python scripts of all solved problems and exercises
 └── 📄 README.md # Project documentation
 ```
+
 ---
 
 ## ✨ What's Inside
@@ -76,6 +77,7 @@ A personal repository to track and document my **Data Structures & Algorithms (D
 - Problems will be updated regularly as I continue learning.  
 - Code is written for clarity and learning, not optimized for all edge cases.  
 - Suggestions and feedback are welcome via Issues or Discussions.
+
 ---
 
 ## 🙋‍♀️ Author
