@@ -1,33 +1,37 @@
 # 🐍 DSA in Python | Personal Learning Repository
 
-A personal repository to track and document my **Data Structures & Algorithms (DSA)** learning journey using **Python**. This repo is a mix of notes, solved exercises, and practice code to build a strong foundation in core programming concepts.
+A personal repository to track and document my **Data Structures & Algorithms (DSA)** learning journey using **Python**. This repository includes topic-wise **notes**, **solved exercises**, and **practice code** aimed at building a strong foundation in core programming concepts.  
+
+I’m following the [**CampusX DSA Course**](https://youtu.be/f9Aje_cN_CY?si=9jPPOBXiSrjk3mdC) for structured learning and the [**Striver’s A2Z DSA Sheet**](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for consistent coding practice and problem-solving. Additionally, I also refer to the [**DSA with Python Course Playlist by Code & Debug**](https://youtube.com/playlist?list=PLhR2IpV1b2FwWwviBHRrR118YAaSlyhTU&si=D7FHvk0wDXm4jznu) for extra explanations, concept clarity, and more practice questions.
 
 ---
 
 ## 📂 Repository Structure
 ```
 📁 DSAPython
-├── 📁 coursework # Course notes, PDFs, and learning materials
-├── 📁 practice # Python scripts of all solved problems and exercises
-└── 📄 README.md # Project documentation
+├── 📁 practice # Python scripts of all solved problems and exercisesCourse notes, PDFs, and learning materials
+├── 📁 notes # Course notes, PDFs, and learning materials
+└── 📄 README.md # Repository documentation
 ```
 
 ---
 
 ## ✨ What's Inside
 
-### 📚 `coursework/`
-- Notes from online courses, books, and tutorials
-- PDF handouts, conceptual summaries
-- Reference content for quick revision
+### 📚 `notes/`
+- Topic-wise learning notes created while studying and understanding core concepts.  
+- Includes material from **online courses**, **books**, and **tutorials**.  
+- Contains **PDF handouts**, **conceptual summaries**, and **quick reference content** for revision.
 
 ### 🧪 `practice/`
-- Python implementations of:
-  - Arrays, Strings, Linked Lists, Stacks, Queues
-  - Trees, Graphs, Heaps, HashMaps, etc.
-  - Searching and Sorting Algorithms
-  - Recursion, Dynamic Programming, Backtracking
-- Regular updates with attempted coding problems
+- Topic-wise folders containing **Python implementations** and **coding practice files**.  
+- Mainly includes **LeetCode** problem solutions, following **Striver’s A2Z DSA Sheet**.  
+- Covers:
+  - Arrays, Strings, Linked Lists, Stacks, Queues  
+  - Trees, Graphs, Heaps, HashMaps, etc.  
+  - Searching and Sorting Algorithms  
+  - Recursion, Dynamic Programming, and Backtracking  
+- Regularly updated with **newly solved problems** and **optimized solutions**.
 
 ---
 
@@ -39,7 +43,6 @@ A personal repository to track and document my **Data Structures & Algorithms (D
 | VS Code 🖋️         | Preferred IDE for writing and testing Python scripts  |
 | GitHub 💻         | Version control & progress tracking                    |
 | YouTube 📺        | Concept clarity through free tutorials & walkthroughs  |
-| Udemy 🎓          | Structured DSA and Python courses                      |
 | LeetCode ⚔️       | Hands-on coding practice and problem solving           |
 
 ---
@@ -85,12 +88,6 @@ A personal repository to track and document my **Data Structures & Algorithms (D
 **Anushka Sharma**  
 🌐 [LinkedIn](https://www.linkedin.com/in/anushkasharma008/) • 🐱 [GitHub](https://github.com/Anushka-Sharma-008) 
 🎓 Currently learning Python, Data Science, and DSA
-
----
-
-## 📊 GitHub Stats
-
-[Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushka-Sharma-008&show_icons=true&theme=radical)
 
 ---
 
