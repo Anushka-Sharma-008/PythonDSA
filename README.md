@@ -2,7 +2,7 @@
 
 A personal repository to track and document my **Data Structures & Algorithms (DSA)** learning journey using **Python**. This repository includes topic-wise **notes**, **solved exercises**, and **practice code** aimed at building a strong foundation in core programming concepts.  
 
-I’m following the [**Striver’s A2Z DSA Sheet**](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for consistent coding practice and problem-solving, [**a2zdsa**](https://a2zdsa.pages.dev/) for tracking my progress.
+I’m following the [**Striver’s A2Z DSA Sheet**](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) for consistent coding practice and problem-solving and [**a2zdsa**](https://a2zdsa.pages.dev/) for tracking my progress.
 
 ---
 
