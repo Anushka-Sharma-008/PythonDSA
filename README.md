@@ -24,8 +24,6 @@ I’m following the [**Striver’s A2Z DSA Sheet**](https://takeuforward.org/str
 | Python 🐍         | Core programming language for DSA implementation       |
 | VS Code 🖋️         | Preferred IDE for writing and testing Python scripts  |
 | GitHub 💻         | Version control & progress tracking                    |
-| YouTube 📺        | Concept clarity through free tutorials & walkthroughs  |
-| LeetCode ⚔️       | Hands-on coding practice and problem solving           |
 
 ---
 
